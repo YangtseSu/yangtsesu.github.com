@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Yangtse's Site</title>
+	   <meta charset="UTF-8" />
+		  <meta name="apple-mobile-web-app-capable" content="yes">    
+    <link rel="stylesheet" href="css/style.css" />
+	   <link rel="icon" href="imgs/icon.png">
+		  <link rel="apple-touch-icon" href="imgs/button.png">
+  </head>
+
+
+  <body>
+    <header>
+      <h1>Yangtse Su</h1>
+    </header>
+    <article>Hi，我是Yangtse<br>
+欢迎访问<a href="http://blog.yangtse.me">我的 Blog</a>。
+    </article>
+  </body>
+  <footer>
+    <h3>Copyright &copy; Yangtse Su 2011.</h3>
+  </footer>
+</html>
