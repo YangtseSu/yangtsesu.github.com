@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Yangtse's Site</title>
-	   <meta charset="UTF-8" />
+           <meta http-equiv="Content-Type" charset="utf-8">
            <meta name="apple-mobile-web-app-capable" content="yes">    
     <link rel="stylesheet" href="css/style.css" />
 	   <link rel="icon" href="imgs/icon.png">
@@ -15,7 +15,7 @@
       <h1>Yangtse Su</h1>
     </header>
     <article>Hi，我是Yangtse<br>
-欢迎访问<a href="http://blog.yangtse.me">我的 Blog</a>。
+欢迎访问<a href="http://blog.yangtse.me">我的Blog</a>。
     </article>
     <footer>
       <h3>Copyright &copy; Yangtse Su 2011.</h3>
