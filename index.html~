@@ -19,6 +19,16 @@
     </article>
     <footer>
       <h3>Copyright &copy; Yangtse Su 2011.</h3>
+      <p>
+        <a href="http://www.w3.org/html/logo/">
+	  <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-device.png" width="165" height="64" alt="HTML5 Powered with CSS3 / Styling, and Device Access" title="HTML5 Powered with CSS3 / Styling, and Device Access">
+        </a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer">
+	      <img style="border:0;width:88px;height:31px"
+	      	src="imgs/vcss.gif"
+		alt="Valid CSS!" />
+       </a>
+     </p>
     </footer>
   </body>
 </html>
